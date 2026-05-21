@@ -8,7 +8,6 @@ Create a bar chart and histogram to visualize the distribution of a categorical 
 - Pandas
 - Matplotlib
 - Seaborn
-- Google Colab
 
 ## Visualizations
 - Bar Chart of Population by Age Group
